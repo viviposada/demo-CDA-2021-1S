@@ -2,8 +2,8 @@
 Versión demo clase ciencia de datos.
 
 Hola! Soy Viviana Posada
-
-Estudiante de la especializacion en Analitica
+Vivo en Amaga, Antioquia, Colombia
+Soy estudiante de la especialización en Analitica
 
 De la Universidad Nacional de Colombia
 
